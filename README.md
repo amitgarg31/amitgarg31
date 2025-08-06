@@ -44,4 +44,6 @@ Backend Developer | FastAPI • Redis • MongoDB • LLMs | Building scalable A
 ## 📫 Contact
 
 - 📧 [as1000amit@gmail.com](mailto:as1000amit@gmail.com)
+-  📞 +918219723076
 - 🔗 [LinkedIn](https://linkedin.com/in/amit-sharma-994982267/)
+
