@@ -9,7 +9,7 @@ Backend Developer | FastAPI • Redis • MongoDB • LLMs | Building scalable A
 
 ## 🚀 Key Projects
 
-### 1. [Git PR Summarizer](https://github.com/your-username/git-pr-summarizer)
+### 1. [Git PR Summarizer](https://github.com/amitgarg31/git-pr-summarizer)
 > Summarizes GitHub Pull Requests using Google Gemini LLM + RAG
 
 - FastAPI backend with JWT Auth
@@ -18,7 +18,7 @@ Backend Developer | FastAPI • Redis • MongoDB • LLMs | Building scalable A
 - Dockerized microservice architecture
 - GitHub API integration + Markdown summaries
 
-### 2. [DigiPass – Real-time Identity Verification](https://github.com/your-username/digipass-backend)
+### 2. [DigiPass – Real-time Identity Verification]
 > Live face verification system deployed at real universities
 
 - FastAPI + MongoDB handling 10K+ reqs/min
