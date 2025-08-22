@@ -31,8 +31,8 @@ Backend Developer | FastAPI • Redis • MongoDB • LLMs | Building scalable A
 
 ## 🛠️ Tech Stack
 
-**Languages**: Python, SQL, JavaScript  
-**Frameworks**: FastAPI, Django, Flask  
+**Languages**: Python, SQL  
+**Frameworks**: FastAPI, Django  
 **Databases**: MongoDB, PostgreSQL, Redis, FAISS  
 **AI/LLMs**: Google Gemini API, LangChain, Vector Embeddings, RAG  
 **Security**: JWT, AES-256, RBAC, OAuth2  
